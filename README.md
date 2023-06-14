@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repoo
 ![kodluyoruzfoto](image.png)
